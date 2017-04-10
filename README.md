@@ -1,2 +1,3 @@
 # Hello-World
-Yee
+A repository to learn the ropes
+Yee!
